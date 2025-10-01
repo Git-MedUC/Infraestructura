@@ -91,9 +91,13 @@ Infraestructura/
 
 ### Comité Directivo
 Toma de decisiones estratégicas y supervisión general del proyecto.
+Dr. Rodrigo A. Figueroa C. rfiguerc@uc.cl
+Dra. Viviana Castro. vlcastro@uc.cl
 
 ### Comité Técnico
 Supervisión técnica y arquitectónica de los proyectos.
+Dr. Rodrigo A. Figueroa C. rfiguerc@uc.cl
+Dra. Viviana Castro. vlcastro@uc.cl
 
 ### Comité de Ética y Validación Médica
 Garantiza la validez médica y el cumplimiento ético.
@@ -104,12 +108,12 @@ Para más detalles, consulta [GOVERNANCE.md](GOVERNANCE.md).
 
 - **Issues**: Para reportar problemas o proponer mejoras
 - **Discussions**: Para discusiones generales
-- **Email**: [Próximamente]
+- **Email**:
+- Dr. Rodrigo A. Figueroa C. rfiguerc@uc.cl
+-Dra. Viviana Castro. vlcastro@uc.cl
 
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
 ---
-
-**Git-MedUC** - Innovación en salud mental a través de la inteligencia artificial y la colaboración médica.
