@@ -4,6 +4,9 @@ Somos un grupo de médicos psiquiatras dedicados al desarrollo de IA aplicada a 
 
 ## 📚 Documentación Principal
 
+### 🚀 Inicio Rápido
+- **[docs/QUICK_START.md](docs/QUICK_START.md)** - Guía de inicio rápido para nuevos colaboradores
+
 ### Gobernanza y Lineamientos
 - **[GOVERNANCE.md](GOVERNANCE.md)** - Estructura organizacional, roles, responsabilidades y proceso de toma de decisiones
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Lineamientos de contribución y estándares de desarrollo
@@ -70,6 +73,7 @@ Infraestructura/
 ├── CONTRIBUTING.md             # Lineamientos de contribución
 ├── CODE_OF_CONDUCT.md          # Código de conducta
 ├── docs/                       # Documentación adicional
+│   ├── QUICK_START.md         # Guía de inicio rápido
 │   └── WORKFLOW.md            # Flujo de trabajo detallado
 └── templates/                  # Plantillas para proyectos
     ├── project-template/      # Plantillas de proyecto
